@@ -1,0 +1,4 @@
+.DS_Store
+mongo/mongo-volume/
+mongo/node-bck/
+jenkins/
